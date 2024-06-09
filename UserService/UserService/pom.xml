@@ -120,6 +120,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>spring-boot-docker-cicd-first</finalName>
     </build>
 
 </project>
